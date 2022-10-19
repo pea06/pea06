@@ -1,5 +1,5 @@
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=000000&width=435&lines=Back-End+Developer;Wangyu" alt="Typing SVG" /></a>
+<div align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=000000&width=435&lines=Back-End+Developer;Wangyu" alt="Typing SVG" /></a>
 # <div align="center">🖥️ My Tech Stacks
 <div align="center">
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/></a>
