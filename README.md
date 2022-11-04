@@ -6,7 +6,6 @@
 </div>
 </div>
   
-  
 # <div align="center"> 🖥️ My Tech Stacks
 <div align="center">
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
@@ -16,8 +15,5 @@
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 </div>
 
-<div align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pea06&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-</div>
- 
+
 
