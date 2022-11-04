@@ -15,9 +15,8 @@
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a>
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"></a>
 </div>
-</div align="center">
+<div align="center">
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pea06&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
-<div>
+</div>
  
 
