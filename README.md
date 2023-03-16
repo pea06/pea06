@@ -1,7 +1,7 @@
 Hi 👋, I'm Wangyu
 --
 #### About Me!
-* I am studying backend at Daegu Software Meister High School.
+* I'm studying backend at Daegu Software Meister High School.
 * I'm working at a school club  CNS  as a Back-End developer.
 *  I'm interested in DevOps
 #### contact
