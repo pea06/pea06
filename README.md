@@ -1,4 +1,4 @@
-Hi 😆, I'm Wangyu 
+Hi 拾, I'm Wangyu 
 --
 #### About Me!
 * I'm studying backend at Daegu Software Meister High School.
