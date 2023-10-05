@@ -1,4 +1,4 @@
-안녕하세요 백엔드 개발자가 꿈인 조완규입니다!
+안녕하세요. 꿈이 많은 개발자 조완규입니다!
 --
 #### About Me!
 * I'm studying backend at Daegu Software Meister High School.
