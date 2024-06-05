@@ -1,6 +1,3 @@
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/pea06?pet-id=575551911063165803" width="1000" height="120"/>
-</a>
+안녕하세요 백엔드 개발자 조완규 입니다 👋 
 
-<a href="mailto:dev.jowangyu@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/> </a>
-<a href = "https://www.instagram.com/_wan_gyu/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/> </a>
+<a href="mailto:dev.jowangyu@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/> </a
